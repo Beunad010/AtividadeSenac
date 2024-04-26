@@ -7,5 +7,5 @@ O projeto XYZ é uma aplicação web desenvolvida com o propósito de listar tod
 
 o Projeto XYZ utiliza as tecnologias listadas a baixo:
 
--MySQL
+-Java
 -Git bash
